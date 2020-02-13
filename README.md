@@ -1,5 +1,5 @@
-# Django-blog
-장고걸스 튜토리얼을 이용한 Django Girls blog
+#  Django-blog
+장고걸스 튜토리얼을 이용하여 만든 Django Girls blog 입니다.
 
 ## Screenshoot
 * 메인화면
@@ -16,5 +16,5 @@
 * Django
 * HTML5/CSS3
 
-## date
+## Date
 2019.9.7
