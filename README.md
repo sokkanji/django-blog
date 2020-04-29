@@ -12,7 +12,6 @@
 <img src="https://user-images.githubusercontent.com/48242362/74423761-1e60ad00-4e94-11ea-97aa-2db1aa3b174b.png" title="post_page02" alt="post_page02"></img>
 
 ## Run on
-* Python
 * Django
 * HTML5/CSS3
 
