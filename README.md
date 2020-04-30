@@ -3,17 +3,15 @@
 
 ## Screenshoot
 * 메인화면
-<img src="https://user-images.githubusercontent.com/48242362/74424012-8f07c980-4e94-11ea-80f7-09b03bbfefcd.png" title="main_page" alt="main_page"></img>
+<img src="https://user-images.githubusercontent.com/48242362/80682109-dcdbb780-8afc-11ea-99e6-72f4904b8c28.png"></img>
 * 게시글 포스팅 화면
-<img src="https://user-images.githubusercontent.com/48242362/74423761-1e60ad00-4e94-11ea-97aa-2db1aa3b174b.png" title="post_page01" alt="post_page01"></img>
+<img src="https://user-images.githubusercontent.com/48242362/74423761-1e60ad00-4e94-11ea-97aa-2db1aa3b174b.png" title="post_page" alt="post_page"></img>
 * 미리보기 화면
-<img src="https://user-images.githubusercontent.com/48242362/74424271-f7ef4180-4e94-11ea-9c5f-8a8c419b531a.png" title="preview_page" alt="preview_page"></img>
-* 미리보기 포스팅 화면
-<img src="https://user-images.githubusercontent.com/48242362/74423761-1e60ad00-4e94-11ea-97aa-2db1aa3b174b.png" title="post_page02" alt="post_page02"></img>
-
-## Run on
-* Django
-* HTML5/CSS3
+<img src="https://user-images.githubusercontent.com/48242362/80682135-e9601000-8afc-11ea-8362-eae61dcae293.png" title="preview_page" alt="preview_page"></img>
+* 댓글 달기 화면(댓글 미리보기 화면)
+<img src="https://user-images.githubusercontent.com/48242362/80681354-802bcd00-8afb-11ea-96c3-4b33318eb356.png" title="post_comment" alt="post_comment"></img>
+* 댓글 달기 화면(댓글 최종 화면)
+<img src="https://user-images.githubusercontent.com/48242362/80682079-d0575f00-8afc-11ea-8923-9b2e338dd02f.png" title="preview_comment" alt="preview_comment"></img>
 
 ## Date
 2019.9.7
